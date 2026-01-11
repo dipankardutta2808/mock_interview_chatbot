@@ -1,7 +1,6 @@
 import streamlit as st
 from openai import OpenAI
 from streamlit_js_eval import streamlit_js_eval
-import os
 
 # Setting up the Streamlit page configuration
 st.set_page_config(page_title="Mock Interview Chatbot", page_icon="💬")
